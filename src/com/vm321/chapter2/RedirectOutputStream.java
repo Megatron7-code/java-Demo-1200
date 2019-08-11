@@ -4,6 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.PrintStream;
 
 /**
+ * 020
  * Created by Megatron on 2017/1/14.
  */
 public class RedirectOutputStream {

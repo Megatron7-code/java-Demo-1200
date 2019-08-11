@@ -3,6 +3,7 @@ package com.vm321.chapter2;
 import java.util.Scanner;
 
 /**
+ * 019
  * Created by Megatron on 2017/1/14.
  */
 public class InputCode {

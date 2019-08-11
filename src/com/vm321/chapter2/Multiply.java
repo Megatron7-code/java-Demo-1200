@@ -3,6 +3,7 @@ package com.vm321.chapter2;
 import java.util.Scanner;
 
 /**
+ * 025
  * Created by Megatron on 2017/1/17.
  */
 public class Multiply {

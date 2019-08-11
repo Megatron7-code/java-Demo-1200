@@ -3,6 +3,7 @@ package com.vm321.chapter2;
 import java.math.BigDecimal;
 
 /**
+ * 024
  * Created by Megatron on 2017/1/17.
  */
 public class AccuratelyFloat {
