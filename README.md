@@ -1,5 +1,5 @@
 # java-Demo-1200
-## 在这里记录下学习的 过程
+## 在这里记录下学习的过程
 * [实例031 判断用户输入八月份的季节](src/com/vm321/d031/JudgeMonth.java)
 * [实例032 使用while与自增运算符循环遍历数组](src/com/vm321/d032/ErgodicArray.java)
 * [实例033 使用for循环输出杨辉三角](src/com/vm321/d033/YanghuiTriangle.java)
