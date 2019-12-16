@@ -12,3 +12,7 @@
 * [实例040 循环的极限](src/com/vm321/d040/CycUtmost.java)
 * [实例041 冒泡排序法](src/com/vm321/d041/Bubble.java)
 * [实例042 快速排序法](src/com/vm321/d042/Parti.java)
+
+## 设计模式实例
+* [实例117 策略模式的简单应用](src/com/vm322/d117/User.java)
+* [实例118 适配器模式的应用](src/com/vm322/d118/Test.java)
